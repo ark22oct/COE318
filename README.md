@@ -1,2 +1,4 @@
 # COE318
 Lab work and term project for COE 318 (Software Systems) accomplished using Java and Netbeans IDE. Feel free to reference, but avoid copying.
+
+Comprehensive exploration of the software development cycle, covering key phases such as requirements analysis, specification, implementation, testing, inspection, and debugging. Gaining hands-on experience with an object-oriented programming language, delving into the intricacies of decomposition into classes and modules, as well as the integration of independent modules. Equipping practical skills and theoretical knowledge essential for successful software engineering. Through real-world applications, learned to navigate the challenges of software development while maintaining a strong ethical foundation. Integrated both technical expertise and a holistic understanding of the societal implications of software engineering practices.
