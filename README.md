@@ -6,8 +6,12 @@ Comprehensive exploration of the software development cycle, covering key phases
 # Key Objectives:
 1. Anticipates the needs of the project, customizes design processes, analyzes progress, and
    revises plans as necessary. Produces a design strategy and uses it to guide a design.
+
 2. Produces a design strategy and uses it to guide a design.
+   
 3. Generates solutions for more complex design engineering problems/systems.
+   
 4. Understands software impacts on environment, people and society.
+
 5. Understand the ethical risks of the software development life cycle. Understand software
    engineering code of ethics and professional practice.
